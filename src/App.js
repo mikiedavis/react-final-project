@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import aws from './aws.jpeg';
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
         <p>
           Edureka AWS Final Project
         </p>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={aws} className="App-logo" alt="logo" />
         <a
           className="App-link"
           href="https://aws.amazon.com/console/"
